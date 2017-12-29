@@ -16,7 +16,7 @@ export default App = ({title, players})=> {
 };
 
 
-// Andrew contwnt
+// Andrew content
 //export default class App extends React.Component {
 //    render() {
 //        return <div>
